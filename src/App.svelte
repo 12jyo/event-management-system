@@ -46,7 +46,7 @@
 						<FormGroup legendText="Event Deliverables">
 							<Checkbox
 								id="checkbox-0"
-								labelText="Catering"
+								labelText="Institude"
 								checked
 							/>
 							<Checkbox id="checkbox-1" labelText="Hospitality" />
